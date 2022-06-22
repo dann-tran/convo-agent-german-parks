@@ -1,0 +1,2 @@
+class ParkNotFoundExcpetion(Exception):
+    pass

@@ -1,0 +1,18 @@
+aws-wsgi==0.2.7
+click==8.0.4
+Flask==1.0.2
+flask-dialogflow @ git+https://github.com/ONSEIGmbH/flask-dialogflow.git@ba3a62e5a128c66d59e7ec189dce82fabbf4eb43
+itsdangerous==1.1.0
+Jinja2==3.0.3
+MarkupSafe==2.1.1
+marshmallow==3.0.0rc5
+marshmallow-enum==1.4.1
+numpy==1.22.4
+pandas==1.4.2
+python-dateutil==2.8.2
+pytz==2022.1
+PyYAML==5.1
+simplejson==3.17.6
+six==1.16.0
+tabulate==0.8.3
+Werkzeug==2.0.3

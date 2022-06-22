@@ -1,0 +1,13 @@
+# Yaml file with response templates for handler functions
+
+park_found:
+  - Here is a park for you. It is called {{ park_name }}. Would you like to know more about this park?
+
+park_not_found:
+  - We couldn't find a park that matches your choices. If you want, I can help you find another kind of park.
+
+park_info:
+  - '{{ park_name }} is {{ park_area }} km2 big and was established in {{ park_year }}. {{ park_summary }}'
+
+end:
+  - 'Bye :('

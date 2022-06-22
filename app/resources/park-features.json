@@ -1,0 +1,127 @@
+[
+  {
+    "value": "mountain",
+    "synonyms": [
+      "mountain",
+      "valley",
+      "hill",
+      "slope",
+      "mountain range",
+      "crest",
+      "crestline",
+      "mountain ridges",
+      "ridge",
+      "berg",
+      "mountains",
+      "mountain ranges",
+      "hills"
+    ]
+  },
+  {
+    "value": "forest",
+    "synonyms": [
+      "forest",
+      "wooded",
+      "coniferous trees",
+      "wald",
+      "groove",
+      "oak trees",
+      "beech trees",
+      "spruce trees",
+      "woods",
+      "woodland",
+      "forests"
+    ]
+  },
+  {
+    "value": "river",
+    "synonyms": ["river", "stream", "brook", "channel", "triburtaries"]
+  },
+  {
+    "value": "glacier",
+    "synonyms": [
+      "glacier",
+      "glacial valley",
+      "moraine",
+      "ice age",
+      "ice area",
+      "glacial meltwater"
+    ]
+  },
+  {
+    "value": "rock",
+    "synonyms": [
+      "rock",
+      "fossil",
+      "limestone layers",
+      "vulcanic peak",
+      "volcanic peak",
+      "vulcano",
+      "vocalcano",
+      "vulcanic peaks",
+      "volcanic peaks"
+    ]
+  },
+  {
+    "value": "plain",
+    "synonyms": ["plain", "lowland"]
+  },
+  {
+    "value": "moor",
+    "synonyms": ["moor", "moors", "moorland", "heath"]
+  },
+  {
+    "value": "sand",
+    "synonyms": ["sand", "dunes", "sandur"]
+  },
+  {
+    "value": "plateau",
+    "synonyms": ["plateau", "highland", "grassland", "marsh"]
+  },
+  {
+    "value": "lake",
+    "synonyms": ["lake", "see"]
+  },
+  {
+    "value": "lagoon",
+    "synonyms": ["lagoon", "wetland"]
+  },
+  {
+    "value": "rubble",
+    "synonyms": ["rubble", "ruin", "wreckage"]
+  },
+  {
+    "value": "island",
+    "synonyms": ["island"]
+  },
+  {
+    "value": "village",
+    "synonyms": ["village", "community"]
+  },
+  {
+    "value": "viticolture",
+    "synonyms": ["viticoluture", "agricolture"]
+  },
+  {
+    "value": "sea",
+    "synonyms": ["sea", "Meer", "coast"]
+  },
+  {
+    "value": "water",
+    "synonyms": [
+      "water",
+      "sea",
+      "lake",
+      "meer",
+      "coast",
+      "lagoon",
+      "see",
+      "river",
+      "brook",
+      "channel",
+      "stream",
+      "triburtaries",
+      "island"
+    ]
+  }
+]

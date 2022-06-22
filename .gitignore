@@ -109,6 +109,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+dialogflow-venv/
 
 # Spyder project settings
 .spyderproject
