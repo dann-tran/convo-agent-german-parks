@@ -10,6 +10,8 @@ Project for Conversational AI Workshop at TUM [sebis](https://wwwmatthes.in.tum.
 
 ## Setup
 
+Clone this repo, navigate to the root directory, and execute the following commands
+
 ```{bash}
 python3 -m pip install --user virtualenv
 python3 -m venv dialogflow-venv
